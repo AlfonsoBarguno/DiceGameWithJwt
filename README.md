@@ -1,7 +1,7 @@
 # DiceGame 
 
 
-![cover](https://github.com/AlfonsoBarguno/BankAppProject/blob/main/BankAppSystem.png)
+![cover](https://github.com/AlfonsoBarguno/DiceGameWithJwt/blob/main/DICEGAME.png)
 
 ## Table of contents
 * [General info](#general-info)

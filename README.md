@@ -10,7 +10,7 @@
 
 ## General info
 Final bootcamp project demonstrating the use of Java and SpringBoot to build a dice game with a SQL database.
-The system lets you log in, play a game, keep a record of your results, see a ranking of the rest of players, and see the best and the worst player. You can create delete and update players.
+The system lets you log in, play a game, keep a record of your results, see a ranking of the rest of players, and see the best and the worst player. You can create, delete and update players. The system has a security process based in Jason Web Tokens.
 
 ## Technologies
 Project is created with:
